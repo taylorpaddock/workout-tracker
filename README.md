@@ -26,4 +26,5 @@ Add more graphs to show what kind of work outs were complete. Add drop downs tha
 ## Author
 
 Github: https://github.com/taylorpaddock
+<br>
 Deployed Application: https://workout-tracker-2022.herokuapp.com/
